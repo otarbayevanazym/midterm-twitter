@@ -1,0 +1,16 @@
+/* src/components/Feed.css */
+.Feed {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+button {
+  background-color: #1DA1F2;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+/* Add specific styles for the Feed component here */
